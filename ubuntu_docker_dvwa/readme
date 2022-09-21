@@ -1,3 +1,6 @@
 This is an Ununtu VM with docker installed and DVWA app
 Use button below to deploy it into your Azure subscription
-![Deploy to Azure](https://aka.ms/deploytoazurebutton)
+
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/pczopik/azure/main/ubuntu_docker_dvwa/template.json" rel="nofollow"><img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true" alt="Azure Portal Wizard" style="max-width: 100%;"></a>
+
+
