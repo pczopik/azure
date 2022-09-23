@@ -1,4 +1,4 @@
 >This is an Ununtu VM with docker installed and DVWA app
 Use button below to deploy it into your Azure subscription
 
-[<img src="img/myImage.png">](http://example.com/)
+[<img src="https://aka.ms/deploytoazurebutton">](http://example.com/)
