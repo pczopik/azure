@@ -267,7 +267,7 @@
                         ]
                     },
                     "commandToExecute": {
-                        "value": "sh custom1.sh"
+                        "value": "sh dockerdvwa.sh"
                     },
                     "vmName": {
                         "value": "[parameters('virtualMachineName')]"
