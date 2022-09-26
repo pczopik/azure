@@ -99,7 +99,7 @@
         },
         "virtualMachineRG": {
             "type": "string",
-            "defaultValue": ""
+            "defaultValue": "[resourceGroup().name]"
         },
         "osDiskType": {
             "type": "string",
