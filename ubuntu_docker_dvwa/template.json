@@ -99,7 +99,7 @@
         },
         "virtualMachineRG": {
             "type": "string",
-            "defaultValue": "pczopikTemplate"
+            "defaultValue": ""
         },
         "osDiskType": {
             "type": "string",
@@ -263,7 +263,7 @@
                 "parameters": {
                     "fileUris": {
                         "value": [
-                            "https://pczopikcustomscript.blob.core.windows.net/customscript/custom1.sh?sp=r&se=2022-09-23T17:45:46Z&sv=2021-06-08&sr=b&sig=Os%2B3YaG6gwAmzX8Ydwz9xaChaQpaWw%2FPepFX2PkvRPg%3D"
+                            "https://raw.githubusercontent.com/pczopik/azure/main/ubuntu_docker_dvwa/dockerdvwa.sh"
                         ]
                     },
                     "commandToExecute": {
